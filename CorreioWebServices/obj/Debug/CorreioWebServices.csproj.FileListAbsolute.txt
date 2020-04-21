@@ -1,0 +1,9 @@
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\bin\Debug\CorreioWebServices.exe.config
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\bin\Debug\CorreioWebServices.exe
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\bin\Debug\CorreioWebServices.pdb
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.csprojAssemblyReference.cache
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.Properties.Resources.resources
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.csproj.GenerateResource.cache
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.exe
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.pdb
+C:\Users\Jony\source\repos\CorreioWebServices\CorreioWebServices\obj\Debug\CorreioWebServices.FrmConsultarCep.resources
